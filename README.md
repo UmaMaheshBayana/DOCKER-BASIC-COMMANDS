@@ -1,4 +1,4 @@
-# DOCKER-BASIC-COMMANDS
+# DOCKER BASIC COMMANDS
 
 **Command to pull the image from docker hud (pulls the image from repository to local environment)**
 
