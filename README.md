@@ -47,3 +47,13 @@
 **Command to interact with container terminal**
 
 ```docker exec -it $containerID /bin/bash```
+
+**Command to check root disk space i.e xvda**
+
+```
+sudo fdisk -l
+````
+or 
+```
+df -h
+````
